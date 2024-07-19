@@ -87,14 +87,20 @@ layout: default
                   {% include resume/education.liquid %}
                 {% when 'work' %}
                   {% include resume/work.liquid %}
+                {% when 'internships' %}
+                  {% include resume/internships.liquid %}
                 {% when 'volunteer' %}
                   {% include resume/volunteer.liquid %}
                 {% when 'projects' %}
                   {% include resume/projects.liquid %}
                 {% when 'awards' %}
                   {% include resume/awards.liquid %}
+                {% when 'competitions' %}
+                  {% include resume/competitions.liquid %}
                 {% when 'skills' %}
                   {% include resume/skills.liquid %}
+                {% when 'reviewer' %}
+                  {% include resume/reviewer.liquid %}
                 {% when 'publications' %}
                   {% include resume/publications.liquid %}
                 {% when 'languages' %}
