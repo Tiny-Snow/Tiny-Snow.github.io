@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>M.S.</a> in Computer Science, <a href='http://www.cs.zju.edu.cn'>Zhejiang University</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Zhejiang University</p>
+    <p>Hangzhou, Zhejiang, China</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Master student in [College of Computer Science and Technology](http://www.cs.zju.edu.cn/), [Zhejiang University](http://www.zju.edu.cn/), advised by [Prof. Jiawei Chen](https://jiawei-chen.github.io/). I am also a member of [The State Key Laboratory of Blockchain and Data Security](http://fit.zju.edu.cn/fitcn/2023/0406/c34346a2738118/page.htm?eqid=89c6bcd60001f79000000003647ed9e7), [Zhejiang University](http://www.zju.edu.cn/), led by [CAE.Academician. Chun Chen](https://dblp.uni-trier.de/pid/07/4182-0001.html). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I received my Bachelor's degree from [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/), [Shandong University](http://www.sdu.edu.cn/). During my undergraduate studies, I worked with [Prof. Ranran Huang](https://faculty.sdu.edu.cn/huangranran/zh_CN/index/622945/list/index.htm) on Bioinformatics.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently, my research interests lie in **Recommender Systems (RS)**, especially in **Recommendation Loss** and **Large Language Model (LLM) Recommendation**. 
