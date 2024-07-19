@@ -5,6 +5,7 @@ date: 2024-07-18 22:00:00
 description: Hello World! This is my first post.
 tags: thoughts academia
 categories: thoughts
+featured: true
 thumbnail: assets/img/2024-07-19-my-first-tiny-dream/cat.jpg
 images:
   compare: true
