@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My First Tiny Dream
-date: 2024-07-18 22:00:00
+date: 2024-07-19 22:00:00+0800
 description: Hello World! This is my first post.
 tags: thoughts academia
 categories: thoughts
