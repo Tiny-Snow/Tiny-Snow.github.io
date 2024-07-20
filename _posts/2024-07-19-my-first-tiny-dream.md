@@ -1,18 +1,32 @@
 ---
-layout: post
+layout: distill
 title: My First Tiny Dream
 date: 2024-07-19 22:00:00+0800
 description: Hello World! This is my first post.
 tags: thoughts academia
 categories: thoughts
 featured: true
-thumbnail: assets/img/2024-07-19-my-first-tiny-dream/cat.jpg
+thumbnail: assets/img/blogs/2024-07-19-my-first-tiny-dream/cat.jpg
 images:
   compare: true
   slider: true
+
+authors:
+  - name: Weiqin Yang
+    url: "https://tiny-snow.github.io/"
+    affiliations:
+      name: Zhejiang University
+
+bibliography: 
+
+toc:
+  - name: A Long Academic Journey
+  - name: Bring on Something Cute!
 ---
 
-My name is **Weiqin Yang**. I earned my Bachelor's degree from **Shandong University**, School of Computer Science and Technology. This September, I will begin my Master's studies at **Zhejiang University**, College of Computer Science and Technology. During my Master's program, my research will primarily focus on **recommendation loss** and **Large Language Model recommendation**.
+## A Long Academic Journey
+
+My name is **Weiqin Yang**. I earned my Bachelor's degree from School of Computer Science and Technology, **Shandong University**. This September, I will begin my Master's studies at College of Computer Science and Technology, **Zhejiang University**. During my Master's program, my research will primarily focus on **recommendation loss** and **Large Language Model (LLM) recommendation**.
 
 The academia is indeed a long and arduous journey, and the competition is fiercer than ever! Despite having completed three works during my undergraduate studies (with two published and one under review), the "old-wave" are forging ahead, and the "new-wave" are surging in -- the peer pressure is relentless.
 
@@ -24,10 +38,9 @@ Finally -- this might sound like a broken record to those who know me well -- an
 
 ------
 
-***Bring on something cute!***
+## Bring on Something Cute!
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-    <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024-07-19-my-first-tiny-dream/cat.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+    <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blogs/2024-07-19-my-first-tiny-dream/cat.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 <figcaption class="figure-caption text-center">Cat from Static World, https://www.dizzylab.net/d/SW08/</figcaption>
-
