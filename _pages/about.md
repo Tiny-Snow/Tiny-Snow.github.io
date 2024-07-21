@@ -11,6 +11,7 @@ profile:
   more_info: >
     <p>Zhejiang University</p>
     <p>Hangzhou, Zhejiang, China</p>
+    <p><a href="mailto:futurelover10032@gmail.com"><u>futurelover10032@gmail.com</u> <i class="far fa-envelope"></i></a></p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
