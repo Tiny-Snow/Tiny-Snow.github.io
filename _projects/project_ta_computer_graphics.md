@@ -13,7 +13,7 @@ importance: 1
 category: TA
 related_publications: true
 
-bibliography: 
+bibliography:
 
 toc:
   - name: Course Description

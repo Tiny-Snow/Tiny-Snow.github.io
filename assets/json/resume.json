@@ -15,12 +15,8 @@
       "region": "Zhejiang"
     }
   },
-  "work": [
-
-  ],
-  "volunteer": [
-
-  ],
+  "work": [],
+  "volunteer": [],
   "education": [
     {
       "institution": "Zhejiang University",
@@ -41,15 +37,10 @@
       "startDate": "2020-09-07",
       "endDate": "2024-06-30",
       "score": "93.32/100",
-      "courses": [
-        "GPA: 93.32/100",
-        "Rank: 2/197"
-      ]
+      "courses": ["GPA: 93.32/100", "Rank: 2/197"]
     }
   ],
-  "internships": [
-
-  ],
+  "internships": [],
   "awards": [
     {
       "title": "National Scholarship",
@@ -175,28 +166,12 @@
       "summary": "The Chinese Mathematics Competitions (CMC) is a national mathematics competition for college students in China, which is organized by the Chinese Mathematical Society. The Non-math Major Group is for students who are not majoring in mathematics."
     }
   ],
-  "reviewer": [
-    
-  ],
-  "certificates": [
-
-  ],
-  "publications": [
-
-  ],
-  "skills": [
-
-  ],
-  "languages": [
-
-  ],
-  "interests": [
-
-  ],
-  "references": [
-
-  ],
-  "projects": [
-
-  ]
+  "reviewer": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
 }

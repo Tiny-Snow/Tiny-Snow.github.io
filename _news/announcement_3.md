@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 Awarded the **2023 National Scholarship** at Shandong University.
-:trophy: :tada: 
+:trophy: :tada:
