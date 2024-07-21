@@ -17,6 +17,8 @@ bibliography:
 
 toc:
   - name: Course Description
+  - name: Course Syllabus
+  - name: Experiment Schedule
 ---
 
 ## Course Description
