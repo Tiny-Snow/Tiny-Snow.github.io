@@ -6,6 +6,7 @@ description: Hello World! This is my first post.
 tags: thoughts academia
 categories: thoughts
 featured: true
+citation: true
 thumbnail: assets/img/blogs/2024-07-19-my-first-tiny-dream/cat.jpg
 images:
   compare: true
@@ -43,4 +44,4 @@ Finally -- this might sound like a broken record to those who know me well -- an
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
     <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/blogs/2024-07-19-my-first-tiny-dream/cat.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
-<figcaption class="figure-caption text-center">Cat from Static World, https://www.dizzylab.net/d/SW08/</figcaption>
+<figcaption class="figure-caption text-center">Cat from @Static World, https://www.dizzylab.net/d/SW08/</figcaption>
