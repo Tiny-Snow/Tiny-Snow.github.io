@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted by **NeurIPS 2024 poster**. My First Top Conference Paper! 
+One paper is accepted by **NeurIPS 2024 poster**. My First Top Conference Paper!
 :page_facing_up: :tada:
