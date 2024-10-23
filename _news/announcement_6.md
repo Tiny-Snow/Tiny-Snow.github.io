@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted as **NeurIPS 2024 poster**. My First Top Conference Paper!
+One paper is accepted by **[NeurIPS 2024](https://nips.cc/Conferences/2024)**, on **ranking metrics optimization**.
 :page_facing_up: :tada:
