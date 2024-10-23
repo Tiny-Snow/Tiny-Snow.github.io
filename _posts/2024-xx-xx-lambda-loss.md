@@ -28,18 +28,11 @@ toc:
 
 Most recommendation metrics are ranking-based, such as `NDCG` (Normalized Discounted Cumulative Gain), `MAP` (Mean Average Precision), `MRR` (Mean Reciprocal Rank), etc. To learn a recommendation model effectively, we need to design a loss function that can optimize these ranking metrics directly. However, these ranking metrics are non-smooth and non-convex, which makes them unsuitable for optimization.
 
-At the very beginning, `LambdaRank` <d-cite key="burges2006learning"></d-cite> was proposed to highlight the importance of 
+At the very beginning, `LambdaRank` <d-cite key="burges2006learning"></d-cite> was proposed to highlight the importance of ...
 
-`LambdaLoss` <d-cite key="wang2018lambdaloss"></d-cite> is a powerful framework for designing ranking losses as metric surrogate losses. 
+`LambdaLoss` <d-cite key="wang2018lambdaloss"></d-cite> is a powerful framework for designing ranking losses as metric surrogate losses ...
 
-
-
-
-
-
-At the very beginning, 
-
-
+At the very beginning ...
 
 ---
 
