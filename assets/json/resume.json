@@ -40,6 +40,14 @@
       "courses": ["GPA: 93.32/100", "Rank: 2/197"]
     }
   ],
+  "reviewer": [
+    {
+      "name": "ICLR Reviewer",
+      "issuer": "ICLR 2025",
+      "url": "https://iclr.cc/",
+      "icon": "fa-solid fa-clipboard-check"
+    }
+  ],
   "internships": [],
   "awards": [
     {
@@ -123,11 +131,11 @@
       "summary": "The Alibaba Global Mathematics Competition is a global mathematics competition organized by DAMO Academy, Alibaba Group. The competition is open to all college students around the world. There are 802 finalists in 2024."
     },
     {
-      "title": "LeetCode Guardian: Contest Rating 2493",
+      "title": "LeetCode Guardian: Contest Rating 2507",
       "url": "https://leetcode.cn/u/tiny-snow/",
       "date": "2024",
       "awarder": "LeetCode",
-      "summary": "LeetCode is a famous algorithm competition OJ. Contestants with a 2493 rating are Top 0.3% in the world."
+      "summary": "LeetCode is a famous algorithm competition OJ. Contestants with a 2507 rating are Top 0.3% in the world."
     },
     {
       "title": "The 5th Alibaba Global Mathematics Competition: Finalist #198",
@@ -166,7 +174,6 @@
       "summary": "The Chinese Mathematics Competitions (CMC) is a national mathematics competition for college students in China, which is organized by the Chinese Mathematical Society. The Non-math Major Group is for students who are not majoring in mathematics."
     }
   ],
-  "reviewer": [],
   "certificates": [],
   "publications": [],
   "skills": [],

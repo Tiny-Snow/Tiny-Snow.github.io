@@ -1,5 +1,6 @@
 <div class="list-groups">
-  {% for content in data[1] %}
+  {% assign reviews = data[1] %}
+  {% for content in reviews %}
     <div class="list-group col-md-6" title="{{ content.level }}">
       <table class="table-cv list-group-table">
         <tbody>
@@ -16,16 +17,16 @@
             {% for item in content.items %}
               {% assign i = i | plus: 1 %}
             {% endfor %}
-            <td colspan="{{ i }}" class="list-group-category">{{ content.name }}</td>
+            <td colspan="{{ i }}" class="list-group-category">
+              <a href="{{ content.url | default: # }}">{{ content.name }}</a>
+            </td>
           </tr>
-          {% for item in content.keywords %}
-            <tr>
-              <td></td>
-              <td class="list-group-name">
-                <b>{{ item }}</b>
-              </td>
-            </tr>
-          {% endfor %}
+          <tr>
+            <td></td>
+            <td class="list-group-name">
+              <b>{{ content.issuer }}</b>
+            </td>
+          </tr>
         </tbody>
       </table>
     </div>
