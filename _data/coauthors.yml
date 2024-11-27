@@ -1,8 +1,16 @@
 "chen":
   - firstname: ["Jiawei"]
     url: https://scholar.google.com/citations?user=PvICLFYAAAAJ
-  - firstname: ["chun"]
+  - firstname: ["Chun"]
     url: https://scholar.google.com/citations?user=-_LJrJQAAAAJ
+
+"feng":
+  - firstname: ["Yan"]
+    url: https://dblp.org/pid/86/4656
+
+"hu":
+  - firstname: ["Binbin"]
+    url: https://scholar.google.com/citations?user=a70Jt9oAAAAJ
 
 "huang":
   - firstname: ["Ranran"]
@@ -13,5 +21,15 @@
     url: https://orcid.org/0000-0003-2001-5456
 
 "wang":
+  - firstname: ["Can"]
+    url: https://scholar.google.com/citations?user=C63q3HoAAAAJ
   - firstname: ["Shaoyu"]
     url: https://orcid.org/0009-0006-1477-5343
+
+"xin":
+  - firstname: ["Xin"]
+    url: https://scholar.google.com/citations?user=cYvuOUMAAAAJ
+
+"zhou":
+  - firstname: ["Sheng"]
+    url: https://scholar.google.com/citations?user=Ss76nMwAAAAJ
