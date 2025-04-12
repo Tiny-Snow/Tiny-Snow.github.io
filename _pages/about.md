@@ -22,4 +22,4 @@ I am a Master student in [College of Computer Science and Technology](http://www
 
 I received my Bachelor's degree from [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/), [Shandong University](http://www.sdu.edu.cn/). During my undergraduate studies, I worked with [Prof. Ranran Huang](https://faculty.sdu.edu.cn/huangranran/zh_CN/index/622945/list/index.htm) on Bioinformatics.
 
-Currently, my research interests lie in **Recommender Systems (RS)**, especially in **Recommendation Loss** and **Large Language Model (LLM) Recommendation**.
+Currently, my research interests lie in **Recommender Systems (RS)**, especially in **Recommendation Loss** and **Large Language Model (LLM) Recommendation**. My goal in M.S. research is to achieve **Recommendation Foundation Models**.
