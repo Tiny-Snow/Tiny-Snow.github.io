@@ -46,6 +46,12 @@
       "issuer": "ICLR 2025",
       "url": "https://iclr.cc/",
       "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "NeurIPS Reviewer",
+      "issuer": "NeurIPS 2025",
+      "url": "https://nips.cc/",
+      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "internships": [],
@@ -55,6 +61,12 @@
       "date": "2023, 2022",
       "awarder": "Ministry of Education of the People's Republic of China",
       "summary": "The National Scholarship is the highest award for Chinese students in China, which is awarded by the Ministry of Education of the People's Republic of China."
+    },
+    {
+      "title": "Chiang Chen Scholarship",
+      "date": "2024",
+      "awarder": "Chiang Chen Industrial Charity Foundation",
+      "summary": "The Chiang Chen Scholarship is awarded to the outstanding first-year M.S. students in the School of Computer Science and Technology, Zhejiang University."
     },
     {
       "title": "Honors Bachelor Degree of Shandong University",
