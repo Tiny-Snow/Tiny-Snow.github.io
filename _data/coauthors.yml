@@ -20,15 +20,27 @@
   - firstname: ["Dexin"]
     url: https://orcid.org/0000-0003-2001-5456
 
+"sun":
+  - firstname: ["Yuegang"]
+    url: https://orcid.org/0009-0009-2701-4641
+
 "wang":
   - firstname: ["Can"]
     url: https://scholar.google.com/citations?user=C63q3HoAAAAJ
   - firstname: ["Shaoyu"]
     url: https://orcid.org/0009-0006-1477-5343
 
+"wu":
+  - firstname: ["Peng"]
+    url: https://scholar.google.com/citations?user=yKj_YmAAAAAJ
+
 "xin":
   - firstname: ["Xin"]
     url: https://scholar.google.com/citations?user=cYvuOUMAAAAJ
+
+"zhang":
+  - firstname: ["Shengjia"]
+    url: https://scholar.google.com/citations?user=LBcgzwUAAAAJ
 
 "zhou":
   - firstname: ["Sheng"]
