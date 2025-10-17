@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 One paper is accepted by **[NeurIPS 2024](https://nips.cc/Conferences/2024)**, on **ranking metrics optimization**.
-:page_facing_up: :tada:

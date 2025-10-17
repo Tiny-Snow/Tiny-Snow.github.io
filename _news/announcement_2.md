@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 One paper is accepted by **Front. Microbiol.**.
-:page_facing_up:

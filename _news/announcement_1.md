@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Awarded the **2022 National Scholarship** at Shandong University.
-:trophy: :tada:

@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Awarded the **2024 Chiang Chen Scholarship** at Zhejiang University.
-:trophy: :tada:

@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 One paper is accepted by **Micro. Biotec.**.
-:page_facing_up:
