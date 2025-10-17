@@ -43,13 +43,13 @@
   "reviewer": [
     {
       "name": "ICLR Reviewer",
-      "issuer": "ICLR 2025",
+      "issuer": "ICLR '25, '26",
       "url": "https://iclr.cc/",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "NeurIPS Reviewer",
-      "issuer": "NeurIPS 2025",
+      "issuer": "NeurIPS '25 (Top Reviewer)",
       "url": "https://nips.cc/",
       "icon": "fa-solid fa-clipboard-check"
     }
