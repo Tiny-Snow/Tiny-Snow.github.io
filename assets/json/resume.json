@@ -82,6 +82,11 @@
       "awarder": "Shandong University"
     },
     {
+      "title": "First-class Academic Scholarship & Merit Student",
+      "date": "2023, 2022, 2021",
+      "awarder": "Shandong University"
+    },
+    {
       "title": "Huawei Scholarship",
       "date": "2023, 2022, 2021",
       "awarder": "Huawei Technologies Co., Ltd."
@@ -95,11 +100,6 @@
       "title": "Weichai Power Scholarship",
       "date": "2021",
       "awarder": "Weichai Power Co., Ltd."
-    },
-    {
-      "title": "First-class Academic Scholarship & Merit Student",
-      "date": "2023, 2022, 2021",
-      "awarder": "Shandong University"
     }
   ],
   "competitions": [
