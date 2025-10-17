@@ -4,7 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 3
-cv_pdf: example_pdf.pdf
+# TODO: add cv pdf file
+# cv_pdf: example_pdf.pdf
 description: Weiqin Yang's CV
 toc:
   sidebar: left
