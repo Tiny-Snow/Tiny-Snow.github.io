@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Master student in [College of Computer Science and Technology](http://www.cs.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/), advised by [Prof. Jiawei Chen](https://jiawei-chen.github.io/). I am also a member of [The State Key Laboratory of Blockchain and Data Security](http://fit.zju.edu.cn/fitcn/2023/0406/c34346a2738118/page.htm?eqid=89c6bcd60001f79000000003647ed9e7), [Zhejiang University](https://www.zju.edu.cn/), led by [CAE.Academician. Chun Chen](https://dblp.uni-trier.de/pid/07/4182-0001.html).
+I am a Master student in [College of Computer Science and Technology](http://www.cs.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/), advised by [Prof. Jiawei Chen](https://jiawei-chen.github.io/).
 
 I received my Bachelor's degree from [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/), [Shandong University](http://www.sdu.edu.cn/). During my undergraduate studies, I worked with [Prof. Ranran Huang](https://faculty.sdu.edu.cn/huangranran/zh_CN/index/622945/list/index.htm) on Bioinformatics.
 
-Currently, my research interests lie in **Recommender Systems (RS)**, especially in **Recommendation Loss** and **Large Language Model (LLM) Recommendation**. My goal in M.S. research is to achieve **Recommendation Foundation Models**.
+I have published multiple papers in top machine learning conferences, including NeurIPS, KDD, etc. I have also served as a reviewer for conferences such as NeurIPS, ICLR, etc. Recently, I have been focusing on research in **Recommender Systems**, epsecially in **Recommendation Loss** and **Generative Recommender Systems**. My other research interests include **Reinforcement Learning** and **Large Language Models**.
