@@ -6,31 +6,40 @@
       {% if entry.preprint %}
         <span class="badge rounded w-100 badge-preprint">Preprint</span>
       {% endif %}
-      {%- if entry.abbr -%}
-        {%- if site.data.venues[entry.abbr] -%}
-          {% assign venue_style = null %}
-          {% if site.data.venues[entry.abbr].color != blank %}
-            {% assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' %}
-          {%- endif -%}
-          <abbr
-            class="badge rounded w-100"
-            {% if venue_style %}
-              {{ venue_style }}
-            {% endif -%}
-          >
-            {% if site.data.venues[entry.abbr].url %}
-              <a href="{{ site.data.venues[entry.abbr].url }}">{{ entry.abbr }}</a>
+
+      {% assign has_abbr = entry.abbr %}
+      {% assign has_method = entry.method %}
+      {% if has_abbr or has_method %}
+        <div class="abbr-row">
+          {% if has_abbr %}
+            {%- if site.data.venues[entry.abbr] -%}
+              {% assign venue_style = null %}
+              {% if site.data.venues[entry.abbr].color != blank %}
+                {% assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' %}
+              {%- endif -%}
+              <abbr
+                class="badge rounded"
+                {% if venue_style %}
+                  {{ venue_style }}
+                {% endif -%}
+              >
+                {% if site.data.venues[entry.abbr].url %}
+                  <a href="{{ site.data.venues[entry.abbr].url }}">{{ entry.abbr }}</a>
+                {% else %}
+                  <div>{{- entry.abbr -}}</div>
+                {% endif %}
+              </abbr>
             {% else %}
-              <div>{{- entry.abbr -}}</div>
+              <abbr class="badge rounded">{{ entry.abbr }}</abbr>
             {% endif %}
-          </abbr>
-        {% else %}
-          <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
-        {% endif %}
+          {% endif %}
+
+          {% if has_method %}
+            <span class="badge rounded badge-method">{{ entry.method }}</span>
+          {% endif %}
+        </div>
       {% endif %}
-      {% if entry.method %}
-        <span class="badge rounded w-100 badge-method">{{ entry.method }}</span>
-      {% endif %}
+
       {% if entry.preview %}
         {% if entry.preview contains '://' %}
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
