@@ -697,17 +697,6 @@ footer.sticky-bottom {
       .abbr {
         margin-bottom: 0.5rem;
 
-        .abbr-row {
-          display: flex;
-          gap: 0.35rem;
-          margin-bottom: 0.35rem;
-
-          > * {
-            flex: 1 1 0;
-            margin-bottom: 0;
-          }
-        }
-
         abbr,
         .badge {
           display: inline-block;
