@@ -53,6 +53,12 @@
       "url": "https://nips.cc/",
       "icon": "fa-solid fa-clipboard-check"
     }
+    {
+      "name": "SIGIR Reviewer",
+      "issuer": "SIGIR '26",
+      "url": "https://dblp.org/db/conf/sigir/",
+      "icon": "fa-solid fa-clipboard-check"
+    }
   ],
   "internships": [],
   "awards": [
