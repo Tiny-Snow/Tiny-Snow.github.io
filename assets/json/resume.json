@@ -58,6 +58,12 @@
       "issuer": "SIGIR '26",
       "url": "https://dblp.org/db/conf/sigir/",
       "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "TOIS Reviewer",
+      "issuer": "TOIS '26",
+      "url": "https://tois.acm.org/",
+      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "internships": [],
