@@ -785,6 +785,16 @@ footer.sticky-bottom {
         a.award.btn {
           border-color: var(--global-highlight-color);
         }
+        a.btn.btn-media {
+          background-color: #f893c1 !important;
+          color: #2d1d24 !important;
+          border-color: #f893c1 !important;
+
+          &:hover {
+            color: #2d1d24 !important;
+            border-color: #f893c1 !important;
+          }
+        }
       }
 
       .badges {
