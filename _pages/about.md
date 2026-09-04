@@ -25,4 +25,5 @@ My research interests lie in optimization, foundation models, and recommendation
 - **ranking metrics optimization** for recommender systems, e.g., [PSL](https://arxiv.org/abs/2411.00163), [SL@K](https://arxiv.org/abs/2508.05673), [Talos](https://arxiv.org/abs/2601.19276).
 - **training-inference alignment** for generative recommendation, e.g., [BEAR](https://arxiv.org/abs/2601.22925).
 - **scaling laws** of large recommendation models (e.g., [SPRINT](https://arxiv.org/abs/2606.21911)).
-- **self-evolving AI**, e.g., [Astar](https://arxiv.org/abs/2608.27287).
+- **reinforcement learning** in LLMs, e.g., [BLADE](https://arxiv.org/abs/2605.04559).
+- **self-evolving AI4AI**, e.g., [Astar](https://arxiv.org/abs/2608.27287).
