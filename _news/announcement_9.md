@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded the **2025 National Scholarship** at Zhejiang University.
+🎉Awarded the **2025 National Scholarship** at Zhejiang University.

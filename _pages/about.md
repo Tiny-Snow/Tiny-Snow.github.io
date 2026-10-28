@@ -22,8 +22,11 @@ I am a third-year Ph.D. student in [College of Computer Science and Technology](
 
 My research interests lie in optimization, foundation models, and recommendation, with a focus on the following topics:
 
-- **ranking metrics optimization** (e.g., [PSL](https://arxiv.org/abs/2411.00163), [SL@K](https://arxiv.org/abs/2508.05673), [Talos](https://arxiv.org/abs/2601.19276)).
-- **training-inference alignment** (e.g., [BEAR](https://arxiv.org/abs/2601.22925)).
-- **scaling laws** (e.g., [SPRINT](https://arxiv.org/abs/2606.21911)).
-- **reinforcement learning** (e.g., [BLADE](https://arxiv.org/abs/2605.04559)).
-- **self-evolving AI4AI** (e.g., [Astar](https://arxiv.org/abs/2608.27287)).
+- **Ranking Metrics Optimization** (e.g., [PSL](https://arxiv.org/abs/2411.00163), [SL@K](https://arxiv.org/abs/2508.05673), [Talos](https://arxiv.org/abs/2601.19276), ALPHA).
+- **Scaling Laws** (e.g., [SPRINT](https://arxiv.org/abs/2606.21911)).
+- **Training-Inference Alignment** (e.g., [BEAR](https://arxiv.org/abs/2601.22925), BAD).
+- **Debiasing and Fairness** (e.g., [SPRINT](https://arxiv.org/abs/2606.21911), PAT).
+- **Reinforcement Learning** (e.g., [BLADE](https://arxiv.org/abs/2605.04559)).
+- **On-Policy Distillation** (e.g., [KL-MOPD](https://arxiv.org/abs/2610.36973)).
+- **Decoding Efficiency** (e.g., PFA, Simba).
+- **Self-Evolving AI4ML** (e.g., [Astar](https://arxiv.org/abs/2608.27287)).

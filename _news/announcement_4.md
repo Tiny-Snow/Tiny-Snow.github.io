@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Win the **Finalist #54** in the **2024 Alibaba Global Mathematics Competition**.
+🎉Win the **Finalist #54** in the **2024 Alibaba Global Mathematics Competition**.
