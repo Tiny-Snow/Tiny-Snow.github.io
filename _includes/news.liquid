@@ -1,10 +1,14 @@
 <div class="news">
   {% if site.news != blank %}
     {% assign news_size = site.news | size %}
+    {% assign news_visible_items = site.announcements.visible_items | default: 10 | at_least: 1 | at_most: 10 %}
     <div
-      class="table-responsive"
-      {% if include.limit and site.announcements.scrollable and news_size > 3 %}
-        style="max-height: 60vw"
+      class="table-responsive{% if include.limit and site.announcements.scrollable %} news-scrollable{% endif %}"
+      {% if include.limit and site.announcements.scrollable %}
+        style="--news-visible-items: {{ news_visible_items }}"
+        tabindex="0"
+        role="region"
+        aria-label="News updates, scroll to read all"
       {% endif %}
     >
       <table class="table table-sm table-borderless">
@@ -16,7 +20,14 @@
         {% endif %}
         {% for item in news limit: news_limit %}
           <tr>
-            <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
+            <th
+              scope="row"
+              {% unless include.limit %}
+                style="width: 20%"
+              {% endunless %}
+            >
+              {{ item.date | date: '%b %d, %Y' }}
+            </th>
             <td>
               {% if item.inline %}
                 {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}

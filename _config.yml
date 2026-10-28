@@ -131,6 +131,9 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
+blog:
+  enabled: false # false hides the entire blog (pages, posts, archives, RSS, and search entries); true restores it
+
 blog_name: Tiny Snow # blog_name will be displayed in your blog page
 blog_description: Tiny Snow's Tiny Dream
 permalink: /blog/:year/:title/
@@ -199,11 +202,12 @@ collections:
 
 announcements:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: # leave blank to include all the news in the `_news` folder
+  scrollable: true # constrain the homepage News viewport; the full News page stays expanded
+  visible_items: 10 # maximum visible rows in the scroll area (1-10); wrapped entries may show fewer
+  limit: # total homepage items; leave blank to keep ALL news available by scrolling
 
 latest_posts:
-  enabled: true
+  enabled: false # homepage only; requires blog.enabled to be true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 

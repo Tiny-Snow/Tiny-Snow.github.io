@@ -377,6 +377,55 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Homepage news
+
+.news-section {
+  margin: 1.5rem 0 2rem;
+  padding: 0.875rem 1rem;
+  border: 1px solid var(--global-divider-color);
+  border-inline-start: 3px solid var(--global-theme-color);
+  border-radius: 0.75rem;
+  background-color: var(--global-card-bg-color);
+  background-color: color-mix(in srgb, var(--global-theme-color) 4%, var(--global-bg-color));
+
+  h2 {
+    margin-bottom: 0.5rem;
+  }
+
+  .table {
+    margin-bottom: 0;
+
+    th,
+    td {
+      padding: 0.25rem 0.5rem;
+      line-height: 1.5rem;
+      vertical-align: top;
+    }
+
+    th {
+      width: 8.5rem;
+      white-space: nowrap;
+    }
+  }
+
+  .news > p {
+    margin-bottom: 0;
+  }
+
+  .news-scrollable {
+    // Each row is at least 2rem tall; wrapped entries show fewer rows.
+    max-height: calc(var(--news-visible-items, 10) * 2rem);
+    overflow-y: auto;
+    scrollbar-width: thin;
+    scrollbar-color: var(--global-text-color-light) transparent;
+
+    &:focus-visible {
+      outline: 2px solid var(--global-theme-color);
+      outline-offset: 2px;
+    }
+  }
+}
+
 // Social (bottom)
 
 .social {
