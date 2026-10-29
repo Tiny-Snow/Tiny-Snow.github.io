@@ -1,0 +1,8 @@
+{% if include.date %}
+  {% assign cv_years = include.date | remove: ' ' | split: ',' | sort | reverse %}
+  <div class="cv-year-badges">
+    {% for cv_year in cv_years %}
+      <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">{{ cv_year | replace: '-', '.' }}</span>
+    {% endfor %}
+  </div>
+{% endif %}

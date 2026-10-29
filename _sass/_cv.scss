@@ -213,3 +213,18 @@ ul.timeline li::before {
      color: var(--global-text-color);
 }
 */
+
+// Keep repeated award and competition years in a uniform vertical stack.
+.cv-year-badges {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  width: 75px;
+  vertical-align: top;
+
+  .badge {
+    box-sizing: border-box;
+    width: 100%;
+    font-variant-numeric: tabular-nums;
+  }
+}
