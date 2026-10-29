@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a third-year Ph.D. student in [College of Computer Science and Technology](http://www.cs.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/), advised by [Prof. Jiawei Chen](https://jiawei-chen.github.io/). In my previous studies, I received my Bachelor's degree from [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/), [Shandong University](http://www.sdu.edu.cn/), working with [Prof. Ranran Huang](https://faculty.sdu.edu.cn/huangranran/zh_CN/index/622945/list/index.htm). 
 
-I have published multiple papers in top-tier machine learning conferences, such as NeurIPS, KDD, WWW, SIGIR, etc. I have also served as a reviewer for conferences and journals including NeurIPS, ICLR, SIGIR, TOIS, etc. I am also honored to receive the **Chu Kochen Scholarship** in 2026, the highest-level scholarship at Zhejiang University.
+I have published multiple papers in top-tier machine learning conferences, such as NeurIPS, KDD, WWW, SIGIR, etc. I have also served as a reviewer for conferences and journals including NeurIPS, ICLR, SIGIR, WWW, TOIS, etc. I am also honored to receive the **Chu Kochen Scholarship** in 2026, the highest-level scholarship at Zhejiang University.
 
 My research interests lie in optimization, foundation models, and recommendation, with a focus on the following topics:
 
