@@ -43,7 +43,7 @@
   "reviewer": [
     {
       "name": "ICLR Reviewer",
-      "issuer": "ICLR '25, '26 (Top 200 Reviewer)",
+      "issuer": "ICLR '25, '26 (Top 200 Reviewer), '27",
       "url": "https://iclr.cc/",
       "icon": "fa-solid fa-clipboard-check"
     },
@@ -60,6 +60,12 @@
       "icon": "fa-solid fa-clipboard-check"
     },
     {
+      "name": "WWW Reviewer",
+      "issuer": "WWW '27",
+      "url": "https://dblp.org/db/conf/www/",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
       "name": "TOIS Reviewer",
       "issuer": "TOIS '26",
       "url": "https://tois.acm.org/",
@@ -69,8 +75,13 @@
   "internships": [],
   "awards": [
     {
+      "title": "Chu Kochen Scholarship",
+      "date": "2026",
+      "awarder": "Zhejiang University"
+    },
+    {
       "title": "National Scholarship",
-      "date": "2025, 2023, 2022",
+      "date": "2026, 2025, 2023, 2022",
       "awarder": "Ministry of Education of the People's Republic of China"
     },
     {
